@@ -10,4 +10,9 @@
     \|_______|\|_______|\|__|\|__|\|_______|\|__| \|__|\|________|\|__|\|__|\|_______|\|__| \|__|
 
 </pre>
+Ascii art from <a href="http://patorjk.com/software/taag/">here</a>.
+
+Thanks to the following site for the images of the playing cards:
+<a href="http://www.jfitz.com/cards/" target="_blank">jfitz.com/cards/</a>
+
 
